@@ -1,0 +1,7 @@
+{
+  "name": "- Personal Safety App",
+  "description": "A personal safety companion app that allows users to send SOS messages to emergency contacts, find local resources, and use safety tools like a fake call or siren.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
